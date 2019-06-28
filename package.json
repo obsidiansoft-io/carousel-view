@@ -1,7 +1,7 @@
 {
-  "name": "carousel-view",
+  "name": "@obsidiansoft.io/carousel-view",
   "version": "0.1.0",
-  "description": "Custom webcomponent carousel view",
+  "description": "Carousel web component view",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +11,10 @@
     "url": "git+https://github.com/obsidiansoft-io/carousel-view.git"
   },
   "keywords": [
-    "polymer-3",
     "lit-element",
-    "webcomponent",
-    "desing"
+    "polymer",
+    "carousel",
+    "webcomponent"
   ],
   "author": "quinszouls",
   "license": "MIT",
