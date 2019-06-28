@@ -16,6 +16,7 @@
     "carousel",
     "webcomponent"
   ],
+  "private": false,
   "author": "quinszouls",
   "license": "MIT",
   "bugs": {
