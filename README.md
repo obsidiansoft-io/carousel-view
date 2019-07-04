@@ -10,7 +10,7 @@ Custom webcomponent carousel view
 | autoScroll | Automatically changes the carousel items | Boolean             |
 
 #### Example
-![Carousel simple view](https://bucket.obsidiansoft.io/obsidiansoft/Anotaci%C3%B3n%202019-06-20%20180817.png)
+![Carousel simple view](https://github.com/obsidiansoft-io/carousel-view/blob/master/files/example.png?raw=true)
 ```html
 <!--use tag slot for number the elements (required)--->
 <carousel-view style="width: 600px;height:400px; display: block;" autoScroll>
